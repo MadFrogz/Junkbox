@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Junkbox", "Junkbox.csproj", "{FA605F05-3C62-438F-973C-CC632C15D990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA605F05-3C62-438F-973C-CC632C15D990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA605F05-3C62-438F-973C-CC632C15D990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA605F05-3C62-438F-973C-CC632C15D990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA605F05-3C62-438F-973C-CC632C15D990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DB8587-1CF9-4231-9D18-8FC87038CC49}
+	EndGlobalSection
+EndGlobal
